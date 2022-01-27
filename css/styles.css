@@ -1,0 +1,28 @@
+.titulo-principal{
+    color: green;
+    text-align: center;
+}
+.t-secundarios
+{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(29, 21, 21);
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 20px;
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: none;
+    background-color: lightsalmon;
+}
+.t-secundarios a
+{
+    color: red;
+    text-decoration: none;
+}
+.enlace
+{background-color: lightsalmon;
+text-decoration: none;}
+.t-secundarios:hover a
+{
+    color: black;
+}
